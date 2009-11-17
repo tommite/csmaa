@@ -4,6 +4,10 @@ CSMAA implements some methods from the Stochastic Multicriteria Acceptability An
 
 CSMAA is no longer supported, and is superceded by JSMAA (Java implementation of SMAA methods). Check www.smaa.fi for more information.
 
+Compiling
+=========
+run make in the electre-directory followed by make in the main-directory.
+
 Versions
 ========
 1.0: Release of CSMAA under GPL.

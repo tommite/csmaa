@@ -1,0 +1,261 @@
+"T. T"
+"Mining hazard example for ELECTRE-TRI"
+5
+10
+10
+4
+
+"Corrected mean stress applied on pillars"
+"g1.1"
+5
+1
+0 0.05
+0 0.1
+- -
+
+"Existence of fault"
+"g1.2"
+1
+1
+0 0
+0 0
+- -
+
+"Superimposition of pillars"
+"g1.3"
+1
+1
+0 0
+0 0
+- -
+
+"Size and regularity of pillars"
+"g1.4"
+1
+1
+0 0
+0 0
+- -
+
+"Sensitivity of rock to flooding (depending on the rock type)"
+"g1.5"
+5
+1
+0 0
+0 0
+- -
+
+"Depth of the top mined layer"
+"g2.1"
+1
+0
+0 10
+0 20
+- -
+
+"Maximum expected subsidence"
+"g2.2"
+1
+1
+0 0.1
+0 0.2
+- -
+
+"Expected surface deformation (deduced from subsidence models)"
+"g2.3"
+20
+1
+0 0.05
+0 0.09
+- -
+
+"Zone extent"
+"g2.4"
+1
+1
+0 0.5
+0 1
+- -
+
+"Vulnerability of building"
+"g2.5.1"
+10
+1
+0 0
+0 0
+- -
+
+"Zone 1"
+"Z1"
+5.8
+10
+0
+20
+0
+35
+2.37
+6.8
+3.6
+20
+
+"Zone 2"
+"Z2"
+4.8
+0
+40
+0
+0
+70
+1.28
+1.83
+0.2
+10
+
+"Zone 3"
+"Z3"
+9.7
+10
+10
+0
+30
+200
+1.67
+0.84
+7.4
+30
+
+"Zone 4"
+"Z4"
+10.4
+10
+10
+10
+30
+203
+1.68
+0.83
+9.0
+20
+
+"Zone 5"
+"Z5"
+9.7
+0
+10
+0
+10
+222
+1.2
+0.54
+1.8
+20
+
+"Zone 6"
+"Z6"
+9.8
+10
+0
+20
+0
+50
+1.27
+2.54
+6.7
+20
+
+"Zone 7"
+"Z7"
+12.3
+0
+0
+0
+30
+155
+0.96
+0.61
+14.1
+10
+
+"Zone 8"
+"Z8"
+11.2
+10
+0
+0
+30
+180
+0.71
+0.39
+6.4
+20
+
+"Zone 9"
+"Z9"
+11.3
+0
+40
+20
+0
+115
+2.18
+1.89
+2.5
+10
+
+"Zone 10"
+"Z10"
+11.0
+10
+0
+10
+30
+170
+0.31
+0.18
+2.6
+20
+
+"Class 4"
+"Class 3"
+"Class 2"
+"Class 1"
+
+"Profile 3"
+"Pr3"
+8
+0
+10
+10
+10
+190
+1
+0.63
+6
+20
+
+"Profile 2"
+"Pr2"
+10
+10
+10
+10
+10
+150
+1.4
+0.82
+20
+20
+
+"Profile 1"
+"Pr1"
+14
+10
+40
+20
+20
+110
+1.8
+1
+35
+30
+

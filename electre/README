@@ -1,0 +1,38 @@
+README for ELECTRE v0.2
+----------------------------------------------------------------------
+ELECTRE is a family of methods. This software currently supports ELECTRE
+III and ELECTRE TRI, but we don't support graph-like output for ELECTRE
+III. This software is for further development, and should not be used in
+real-life cases yet.
+
+REQUIREMENTS 
+------------ 
+With unix systems ELECTRE can be compiled by
+running 'make'. The compilation requires Gnu scientific library
+(libgsl). The program has been tested on Debian GNU/Linux and Macintosh
+OS X 10.3.
+
+The program probably can be compiled also for windows by using CYGWIN.
+
+USAGE
+-----
+ELECTRE III:
+Run ./electre datafile
+The datafile can be given as an argument, or optionally the input can be piped to the program.
+For the format of the datafile, see DATAEXAMPLE.
+ELECTRE TRI:
+Run ./electre_tri rule lambda [input_file]
+where rule=[0/1], 0=pessimistic, 1=optimistic,
+and lambda is the cutting level.
+For the format of the datafile, see DATAEXAMPLE.TRI
+
+
+CONTACTING ETC
+--------------
+If you wish more information on the program, please feel free to contact the author via email: 
+t.p.tervonen@rug.nl
+
+LICENSE
+-------
+ELECTRE is Copyright (C) 2005 Tommi Tervonen and is released under the GNU
+General Public License v2. See COPYING for details.
